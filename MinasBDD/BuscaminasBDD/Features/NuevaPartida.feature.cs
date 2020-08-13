@@ -129,7 +129,7 @@ this.ScenarioInitialize(scenarioInfo);
  testRunner.When("el juego reiniciara la partida de buscaminas", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Cuando ");
 #line hidden
 #line 11
- testRunner.Then("encontraremos el numero de partida incrementado en 6", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Entonces ");
+ testRunner.Then("encontraremos el numero de partida incrementado en 2", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Entonces ");
 #line hidden
             }
             this.ScenarioCleanup();

@@ -126,10 +126,10 @@ this.ScenarioInitialize(scenarioInfo);
  testRunner.Given("que al click en jugar", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Dado ");
 #line hidden
 #line 10
- testRunner.When("el juego solicita ingresar su nickname \"userBDD98\"", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Cuando ");
+ testRunner.When("el juego solicita ingresar su nickname \"PachukaBDD98\"", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Cuando ");
 #line hidden
 #line 11
- testRunner.Then("nuestro nickname de juego sera \"userBDD98\"", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Entonces ");
+ testRunner.Then("nuestro nickname de juego sera \"PachukaBDD98\"", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Entonces ");
 #line hidden
             }
             this.ScenarioCleanup();

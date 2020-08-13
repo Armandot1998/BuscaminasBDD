@@ -8,4 +8,4 @@ Característica: Nueva Partida
 Escenario: Nueva Partida
 	Dado que al click en nueva partida
 	Cuando el juego reiniciara la partida de buscaminas
-	Entonces encontraremos el numero de partida incrementado en 6
+	Entonces encontraremos el numero de partida incrementado en 2

@@ -7,5 +7,5 @@ Característica: empezar juego
 @mytag
 Escenario: Empezar juego
 	Dado que al click en jugar
-	Cuando el juego solicita ingresar su nickname "userBDD98"
-	Entonces nuestro nickname de juego sera "userBDD98"
+	Cuando el juego solicita ingresar su nickname "PachukaBDD98"
+	Entonces nuestro nickname de juego sera "PachukaBDD98"
