@@ -151,12 +151,12 @@ this.ScenarioInitialize(scenarioInfo);
         [Microsoft.VisualStudio.TestTools.UnitTesting.TestCategoryAttribute("mytag")]
         [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("VariantName", "Pachuka1")]
         [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:Nickname", "Pachuka1")]
-        [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:Npartida", "3")]
-        [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:Npartidas", "3")]
+        [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:Npartida", "2")]
+        [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:Npartidas", "2")]
         public virtual void PlayersAddSomeGames_Pachuka1()
         {
 #line 7
-this.PlayersAddSomeGames("Pachuka1", "3", "3", ((string[])(null)));
+this.PlayersAddSomeGames("Pachuka1", "2", "2", ((string[])(null)));
 #line hidden
         }
         
@@ -166,12 +166,12 @@ this.PlayersAddSomeGames("Pachuka1", "3", "3", ((string[])(null)));
         [Microsoft.VisualStudio.TestTools.UnitTesting.TestCategoryAttribute("mytag")]
         [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("VariantName", "Pachuka2")]
         [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:Nickname", "Pachuka2")]
-        [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:Npartida", "4")]
-        [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:Npartidas", "4")]
+        [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:Npartida", "2")]
+        [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:Npartidas", "2")]
         public virtual void PlayersAddSomeGames_Pachuka2()
         {
 #line 7
-this.PlayersAddSomeGames("Pachuka2", "4", "4", ((string[])(null)));
+this.PlayersAddSomeGames("Pachuka2", "2", "2", ((string[])(null)));
 #line hidden
         }
         

@@ -4,7 +4,7 @@
 	I want to be told the sum of two numbers
 
 @mytag
-Scenario: Players add some games
+Scenario Outline: Players add some games
 	Given the player is in game
 	And the player click on play and write"<Nickname>"
 	And the player click new game for <Npartida>
@@ -13,6 +13,6 @@ Scenario: Players add some games
 
 	Examples: 
 	| Nickname  | Npartida | Npartidas |
-	| Pachuka1  | 3        | 3         |
-	| Pachuka2  | 4        | 4         |
+	| Pachuka1  | 2        | 2         |
+	| Pachuka2  | 2        | 2         |
 	| Pachuka3  | 2        | 2         |
